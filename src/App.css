@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  background: #fdfdff;
+  background: radial-gradient(circle farthest-corner at center center, #ffffff 8%, #78c8dc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Garamond, serif;
+font-weight: bolder;
+  
+}
+.image{
+  height: 1000px;
+  width: 60%;
+  margin-left: 200px;
+  border-radius: 80;
+}
+
+body{
+  background: #000000;
+  }
+
+  h2{
+    margin-top: 60px;
+    margin-left: 240px;
+    color: whitesmoke;
+    font-family: 'Courier New', monospace;
+font-style: inherit;
+  }
+
+  .land{
+width: 900px;
+height:400px;
+margin-left: 350px;
+  }
+  .Owner{
+    width: 900px;
+    height:400px;
+    margin-left: 350px;
+
+  }
